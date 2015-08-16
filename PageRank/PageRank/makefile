@@ -1,0 +1,1 @@
+g++ -o PR PageRank.cpp main.cpp

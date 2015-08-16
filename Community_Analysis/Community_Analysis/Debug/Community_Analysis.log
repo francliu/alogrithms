@@ -1,0 +1,19 @@
+﻿生成启动时间为 2015/5/19 13:23:18。
+     1>项目“F:\leetcode\Community_Analysis\Community_Analysis\Community_Analysis.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Visual.Studio.2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Member_Based_Community_Detection.cpp
+         Member_Based_Community_Detection.cpp
+     1>f:\leetcode\community_analysis\community_analysis\member_based_community_detection.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\leetcode\community_analysis\community_analysis\member_based_community_detection.cpp(44): warning C4018: “>=”: 有符号/无符号不匹配
+     1>f:\leetcode\community_analysis\community_analysis\member_based_community_detection.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\leetcode\community_analysis\community_analysis\member_based_community_detection.cpp(65): warning C4018: “>”: 有符号/无符号不匹配
+     1>f:\leetcode\community_analysis\community_analysis\member_based_community_detection.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\leetcode\community_analysis\community_analysis\member_based_community_detection.cpp(103): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         F:\Visual.Studio.2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\leetcode\Community_Analysis\Debug\Community_Analysis.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\leetcode\Community_Analysis\Debug\Community_Analysis.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\leetcode\Community_Analysis\Debug\Community_Analysis.lib" /MACHINE:X86 Debug\Member_Based_Community_Detection.obj
+         Community_Analysis.vcxproj -> F:\leetcode\Community_Analysis\Debug\Community_Analysis.exe
+     1>已完成生成项目“F:\leetcode\Community_Analysis\Community_Analysis\Community_Analysis.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.60
